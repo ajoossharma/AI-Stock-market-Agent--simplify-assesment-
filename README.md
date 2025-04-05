@@ -36,7 +36,6 @@ pip install -r requirements.txt
 4. Create a `.env` file in the project root directory with your API keys:
 ```
 OPENAI_API_KEY=your_openai_api_key_here
-ANTHROPIC_API_KEY=your_anthropic_api_key_here
 DEFAULT_MODEL=gpt-3.5-turbo
 PORT=8000
 ```
