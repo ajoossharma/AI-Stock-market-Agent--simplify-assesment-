@@ -12,7 +12,7 @@ This project is an AI-powered stock market agent that provides stock price infor
 ## Prerequisites
 
 - Python 3.8+
-- OpenAI API key or Anthropic API key
+- OpenAI API key
 
 ## Installation
 
